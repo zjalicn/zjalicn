@@ -4,20 +4,19 @@
 [Resumé](/Nikola_Zjalic_Resume.pdf) //
 [Portfolio](www.nikolazjalic.com)
 
-[LinkedIn](www.linkedin.com/nzjalic) //
-[GitHub](www.github.com/zjalicn)
+[LinkedIn](https://www.linkedin.com/nzjalic) //
+[GitHub](https://www.github.com/zjalicn)
 
 
 ## Project Respositories
 [Song Maps](www.youtube.com)
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
-- Frontend: Angular
+* [![Angular][Angular.io]][Angular-url]
 
 
 [Wav Planet](www.youtube.com)
 - A marketplace for musicians to sell sample packs and other merchandise
-- Frontend: React
-- Backend: Node.js
+* [![React][React.js]][React-url]
 
 
 <!--
