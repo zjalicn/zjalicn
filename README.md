@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## Connect with me
-[Resumé](www.nikolazjalic.com/resume)
+[Resumé](www.nikolazjalic.com/resume) //
 [Portfolio](www.nikolazjalic.com)
 
-[LinkedIn](www.linkedin.com/nzjalic)
+[LinkedIn](www.linkedin.com/nzjalic) //
 [GitHub](www.github.com/zjalicn)
 
 
