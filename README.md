@@ -11,7 +11,7 @@
 ## Projects 💻
 
 ### [Song Maps][songmaps-url] 
-Built with: [![Angular][Angular.io]][Angular-url]
+[![Angular][Angular.io]][Angular-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
 
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
