@@ -9,14 +9,17 @@
 
 
 ## Project Respositories
+
 ### Song Maps
 [![Angular][Angular.io]][Angular-url]
+
 [Link](www.youtube.com)
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
 
 ### Wav Planet
-[Link](www.youtube.com)
 [![React][React.js]][React-url]
+
+[Link](www.youtube.com)
 - A marketplace for musicians to sell sample packs and other merchandise
 
 
