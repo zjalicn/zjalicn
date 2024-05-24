@@ -8,12 +8,14 @@
 [GitHub](www.github.com/zjalicn)
 
 
-## Recent Projects
+## Project Respositories
 [Song Maps](www.youtube.com)
-- A songwriting tool to help musicians manage their songs and provide them with songwriting tools
-- 
+- A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
+
 
 [Wav Planet](www.youtube.com)
+- A marketplace for musicians to sell sample packs and other merchandise
+
 
 <!--
 **zjalicn/zjalicn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
