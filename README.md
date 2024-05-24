@@ -9,7 +9,7 @@ My name is Nikola and I'm a full stack developer with an interest in creating on
 [Portfolio](www.nikolazjalic.com)
 
 
-## Projects 💻
+## Recent Projects 💻
 
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
