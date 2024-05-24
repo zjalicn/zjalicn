@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nzjalic
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[github-url]: https://github.com/zjalicn
 [product-screenshot]: screenshot.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
