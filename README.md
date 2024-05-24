@@ -9,12 +9,14 @@
 
 ## Project Respositories
 
-### [Song Maps][songmaps-url] [![Angular][Angular.io]][Angular-url]
+### [Song Maps][songmaps-url] 
+[![Angular][Angular.io]][Angular-url]
 [![Product Name Screen Shot][product-screenshot]][songmaps-url]
 
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
 
-### [Wav Planet][wavplanet-url] [![React][React.js]][React-url]
+### [Wav Planet][wavplanet-url] 
+[![React][React.js]][React-url]
 [![Product Name Screen Shot][product-screenshot]][wavplanet-url]
 
 - A marketplace for musicians to sell sample packs and other merchandise
