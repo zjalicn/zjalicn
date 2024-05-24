@@ -1,4 +1,5 @@
 # Hi there 👋
+My name is Nikola and I'm a full stack developer with an interest in creating online applications, businesses, and music
 
 ## Connect 👥
 [![LinkedIn][linkedin-shield]][linkedin-url]
