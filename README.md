@@ -9,13 +9,15 @@
 
 ## Project Respositories
 
-### [Song Maps](www.youtube.com)
+### [Song Maps][songmaps-url]
 [![Angular][Angular.io]][Angular-url]
+[![Product Name Screen Shot][product-screenshot]][songmaps-url]
 
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
 
-### [Wav Planet](www.youtube.com)
+### [Wav Planet][wavplanet-url]
 [![React][React.js]][React-url]
+[![Product Name Screen Shot][product-screenshot]][wavplanet-url]
 
 - A marketplace for musicians to sell sample packs and other merchandise
 
@@ -35,6 +37,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- Reference Links -->
+<!-- Project Urls -->
+[songmaps-url]: https://youtube.com/songmaps
+[wavplanet-url]: https://youtube.com/wavplanet
+
+
+<!-- Shields -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -48,9 +58,11 @@ Here are some ideas to get you started:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nzjalic
 [product-screenshot]: images/screenshot.png
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
+
