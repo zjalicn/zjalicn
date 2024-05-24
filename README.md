@@ -2,6 +2,7 @@
 
 ## Connect with me
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
 
 [Resumé](/Nikola_Zjalic_Resume.pdf) //
 [Portfolio](www.nikolazjalic.com)
