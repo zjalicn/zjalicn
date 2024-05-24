@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Connect with me
-[Resumé](www.nikolazjalic.com/resume) //
+[Resumé](/Nikola_Zjalic_Resume.pdf) //
 [Portfolio](www.nikolazjalic.com)
 
 [LinkedIn](www.linkedin.com/nzjalic) //
