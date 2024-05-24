@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 🌴
 
-## Connect with me
+## Connect with me 👾
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
@@ -8,7 +8,7 @@
 [Portfolio](www.nikolazjalic.com)
 
 
-## Project Respositories
+## Project Respositories 💻
 
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
