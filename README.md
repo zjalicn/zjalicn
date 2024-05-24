@@ -2,6 +2,9 @@
 
 ## Recent Projects
 [Song Maps](www.youtube.com)
+- A songwriting tool to help musicians manage their songs and provide them with songwriting tools
+
+[Wav Planet](www.youtube.com)
 
 <!--
 **zjalicn/zjalicn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
