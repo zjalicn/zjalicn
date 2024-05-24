@@ -11,10 +11,13 @@
 ## Project Respositories
 [Song Maps](www.youtube.com)
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
+- Frontend: Angular
 
 
 [Wav Planet](www.youtube.com)
 - A marketplace for musicians to sell sample packs and other merchandise
+- Frontend: React
+- Backend: Node.js
 
 
 <!--
