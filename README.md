@@ -5,8 +5,8 @@ My name is Nikola and I'm a full stack developer with an interest in creating on
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-[Resumé](/Nikola_Zjalic_Resume.pdf) //
-[Portfolio](www.nikolazjalic.com)
+[Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikolazjalic_cv-eoIwnwu2C0iIHpeabXwIr1wINSeZrA.pdf) //
+[Portfolio](https://www.nikolazjalic.com)
 
 
 ## Recent Projects 💻
