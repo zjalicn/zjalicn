@@ -1,4 +1,3 @@
-## Connect 👥
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
