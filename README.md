@@ -8,8 +8,7 @@
 ## Recent Projects 💻
 
 ### [SaaS Builder][saas-boilerplate] 
-#### [Code][saas-boilerplate] 
-[![Next][Next.js]][Next-url]
+[![Next][Next.js]][Next-url] [Code][saas-boilerplate]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
 
 - A fully functional template with all the components and functionality needed to build a SaaS on top of
