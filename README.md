@@ -7,15 +7,6 @@
 
 ## Recent Projects 💻
 
-### [SaaS Builder][saas-boilerplate] 
-[![Next][Next.js]][Next-url]
-<!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
-
-- A fully functional template with all the components and functionality needed to build a SaaS on top of
-- User authentication and email verification using sessions, validated against authenticated routes and Api calls
-- Integration with Stripe Api and Webhooks, fully functional User Settings page
-- Database store for all User information and bridge tables to Stripe products, subscriptions, etc and Blob storage for user uploaded files
-
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
@@ -27,6 +18,15 @@
 <!-- [![Product Name Screen Shot][product-screenshot]][wavplanet-url] -->
 
 - A marketplace for musicians to sell sample packs and other merchandise
+
+### [SaaS Builder][saas-boilerplate] 
+[![Next][Next.js]][Next-url]
+<!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
+
+- A fully functional template with all the components and functionality needed to build a SaaS on top of
+- User authentication and email verification using sessions, validated against authenticated routes and Api calls
+- Integration with Stripe Api and Webhooks, fully functional User Settings page
+- Database store for all User information and bridge tables to Stripe products, subscriptions, etc and Blob storage for user uploaded files
 
 
 <!--
