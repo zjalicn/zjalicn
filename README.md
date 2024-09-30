@@ -7,6 +7,15 @@
 
 ## Recent Projects 💻
 
+### [SaaS Builder][saas-boilerplate] 
+[![Next][Next.js]][Next-url]
+<!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
+
+- A fully functional template with all the components and functionality needed to build a SaaS on top of
+- User authentication and email verification using sessions, validated against authenticated routes and Api calls
+- Integration with Stripe Api and Webhooks, fully functional User Settings page
+- Database store for all User information and bridge tables to Stripe products, subscriptions, etc and Blob storage for user uploaded files
+
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
@@ -38,8 +47,9 @@ Here are some ideas to get you started:
 
 <!-- Reference Links -->
 <!-- Project Urls -->
-[songmaps-url]: https://youtube.com/songmaps
-[wavplanet-url]: https://youtube.com/wavplanet
+[songmaps-url]: https://github.com/zjalicn/songmaps-ui
+[wavplanet-url]: wavplanet.com
+[saas-boilerplate]: https://github.com/CieranNicholas/nextjs-boilerplate
 
 
 <!-- Shields -->
