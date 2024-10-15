@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- Project Urls -->
 [songmaps-url]: https://github.com/zjalicn/songmaps-ui
 [wavplanet-url]: wavplanet.com
-[saas-boilerplate]: https://github.com/CieranNicholas/nextjs-boilerplate
+[saas-boilerplate]: https://saas-starter-one.vercel.app/
 
 
 <!-- Shields -->
