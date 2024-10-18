@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-[Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikolazjalic_cv-eoIwnwu2C0iIHpeabXwIr1wINSeZrA.pdf) //
+[Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikola-zjalic-cv-UEbT0iVY9pHTRUQAIyXqDCjukPuErU.pdf) //
 [Portfolio](https://www.nikolazjalic.com)
 
 
