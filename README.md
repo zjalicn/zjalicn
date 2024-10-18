@@ -7,7 +7,7 @@
 
 ## Recent Projects 💻
 
-### [SaaS Builder][saas-boilerplate] 
+### [SaaS Starter](https://saas-starter-one.vercel.app/)
 [![Next][Next.js]][Next-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
 
@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <!-- Project Urls -->
 [songmaps-url]: https://github.com/zjalicn/songmaps-ui
 [wavplanet-url]: wavplanet.com
-[saas-boilerplate]: https://saas-starter-one.vercel.app/
-
 
 <!-- Shields -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
