@@ -5,7 +5,7 @@
 [Portfolio](https://www.nikolazjalic.com)
 
 
-## Recent Projects 💻
+## 💻 Recent Projects
 
 ### [SaaS Starter](https://saas-starter-one.vercel.app/)
 [![Next][Next.js]][Next-url]
