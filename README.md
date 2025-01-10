@@ -7,6 +7,12 @@
 
 ## 💻 Recent Projects
 
+### [TreeLink](https://tree-link-three.vercel.app/)
+[![Next][Next.js]][Next-url]
+- A fully functional Linktree clone which allows users to sign up, create custom profile pages which display custom user links and theme settings
+- User sign up / authentication, dynamic profile generation, and custom theme management.
+- Track clicks on links and display metrics about the user's audience engagement
+
 ### [SaaS Starter](https://saas-starter-one.vercel.app/)
 [![Next][Next.js]][Next-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
@@ -15,12 +21,6 @@
 - User authentication and email verification using sessions, validated against authenticated routes and Api calls
 - Integration with Stripe Api and Webhooks, fully functional User Settings page
 - Database store for all User information and bridge tables to Stripe products, subscriptions, etc and Blob storage for user uploaded files
-
-### [TreeLink](https://tree-link-three.vercel.app/)
-[![Next][Next.js]][Next-url]
-- A fully functional Linktree clone which allows users to sign up, create custom profile pages which display custom user links and theme settings
-- User sign up / authentication, dynamic profile generation, and custom theme management.
-- Track clicks on links and display metrics about the user's audience engagement
 
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
