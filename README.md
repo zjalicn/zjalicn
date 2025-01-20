@@ -4,7 +4,7 @@
 [Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikola-zjalic-cv-UEbT0iVY9pHTRUQAIyXqDCjukPuErU.pdf) //
 [Portfolio](https://www.nikolazjalic.com)
 
-
+<!--
 ## 💻 Recent Projects
 
 ### [TreeLink](https://tree-link-three.vercel.app/)
@@ -16,7 +16,7 @@
 ### [SaaS Starter](https://saas-starter-one.vercel.app/)
 [![Next][Next.js]][Next-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
-
+<!--
 - A fully functional template with all the components and functionality needed to build a SaaS on top of
 - User authentication and email verification using sessions, validated against authenticated routes and Api calls
 - Integration with Stripe Api and Webhooks, fully functional User Settings page
@@ -25,13 +25,13 @@
 ### [Song Maps][songmaps-url] 
 [![Angular][Angular.io]][Angular-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][songmaps-url] -->
-
+<!--
 - A songwriting tool to provide musicians with tools to help with songwriting and manage their song releases
 
 ### [Wav Planet][wavplanet-url]
 [![React][React.js]][React-url]
 <!-- [![Product Name Screen Shot][product-screenshot]][wavplanet-url] -->
-
+<!--
 - A marketplace for musicians to sell sample packs and other merchandise
 
 <!--
