@@ -8,7 +8,15 @@
 
 ![Background Img](./readme-bg.jpg)
 
+<!--
+## Projects
 
+### Lumiere
+
+### Pulse VST
+
+### Oxide VST
+-->
 <!--
 ## 💻 Recent Projects
 
