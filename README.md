@@ -1,12 +1,11 @@
-![Header Img](./linkedin-header.png)
+[![Header Img](./linkedin-header.png)](https://www.nikolazjalic.com)
+
+<!--
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikola-zjalic-cv-UEbT0iVY9pHTRUQAIyXqDCjukPuErU.pdf) //
 [Portfolio Site](https://www.nikolazjalic.com)
-
-
-<!--
 [![GitHub][github-shield]][github-url]
 
 
