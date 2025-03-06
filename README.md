@@ -1,14 +1,15 @@
-# Nikola Zjalic
+![Header Img](./linkedin-header.png)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub][github-shield]][github-url]
 
 [Resumé](https://fg92krreal8mypv5.public.blob.vercel-storage.com/nikola-zjalic-cv-UEbT0iVY9pHTRUQAIyXqDCjukPuErU.pdf) //
-[Portfolio](https://www.nikolazjalic.com)
+[Portfolio Site](https://www.nikolazjalic.com)
 
-![Background Img](./readme-bg.jpg)
 
 <!--
+[![GitHub][github-shield]][github-url]
+
+
 ## Projects
 
 ### Lumiere
